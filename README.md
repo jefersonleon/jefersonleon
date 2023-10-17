@@ -1,7 +1,5 @@
 # Olá, sou Jeferson Faleiro Leon! - Professor e Desenvolvedor Backend 👋
-<div>
-  <img src="eu.jpeg" alt="Jeferson Leon" style="border-radius:50%; width:80px; height: 80px;">
-</div>
+
 
 Sou professor de informática com 25 anos de experiência. Apaixonado por tecnologia e sempre buscando aprender mais!
 
@@ -11,7 +9,7 @@ Sou professor de informática com 25 anos de experiência. Apaixonado por tecnol
 ## 📫 Como entrar em contato comigo:
 
 - Email: jefersonleonblue@gmail.com
-- LinkedIn: [Jeferson Leon]([URL_DO_SEU_LINKEDIN](https://www.linkedin.com/in/jeferson-faleiro-leon-02344222/))
+- LinkedIn: [Jeferson Leon](https://www.linkedin.com/in/jeferson-faleiro-leon-02344222/)
 
 
 ## ⚡ Curto:
