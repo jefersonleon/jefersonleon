@@ -1,16 +1,22 @@
-### Hi there 👋
+# Olá, sou Prof. Jeferson Faleiro Leon! - Desenvolvedor - Professor 👋
 
-<!--
-**jefersonleon/jefersonleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Imagem de perfil]([URL_DA_SUA_IMAGEM]([https://picrew.me/en/image_maker/13338](https://media.licdn.com/dms/image/C4D03AQHqxqqYoelB1g/profile-displayphoto-shrink_200_200/0/1516972194454?e=1703116800&v=beta&t=xW5qMESOD9R4z4OhG_iOeXkz1m9Ha6QT1W60q0_2W0M)))
 
-Here are some ideas to get you started:
+Sou desenvolvedor Android com 5 anos de experiência. Apaixonado por tecnologia e sempre buscando aprender mais!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Atualmente sou professor no Colégio ULBRA São Lucas em Sapucaia do Sul
+
+
+## 📫 Como entrar em contato comigo:
+
+- Email: jefersonleonblue@gmail.com
+- LinkedIn: [João Silva]([URL_DO_SEU_LINKEDIN](https://www.linkedin.com/in/jeferson-faleiro-leon-02344222/))
+
+
+## ⚡ Fatos interessantes:
+
+- 🌍 Adoro estar com a família e curto desafios
+
+[![Estatísticas do GitHub de Jeferson Leon](https://github-readme-stats.vercel.app/api?username=jefersonleon)](https://github.com/jefersonleon)
+
+
