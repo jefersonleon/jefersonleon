@@ -1,6 +1,6 @@
 # Olá, sou Jeferson Faleiro Leon! - Professor e Desenvolvedor Backend 👋
 
-![Imagem de perfil]([./eu.jpeg])
+![Imagem de perfil]([\eu.jpeg])
 
 Sou desenvolvedor Android com 5 anos de experiência. Apaixonado por tecnologia e sempre buscando aprender mais!
 
