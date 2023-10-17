@@ -1,7 +1,7 @@
 # Olá, sou Jeferson Faleiro Leon! - Professor e Desenvolvedor Backend 👋
-
-<img style="border-radius: 50%; width: 60px; height: 60px;" src="eu.jpeg" alt="Jeferson Leon">
-
+<div>
+  <img style="border-radius:50%; width:80px; height: 80px;" src="eu.jpeg" alt="Jeferson Leon">
+</div>
 Sou desenvolvedor Android com 5 anos de experiência. Apaixonado por tecnologia e sempre buscando aprender mais!
 
 ## 🌱 Atualmente sou professor no Colégio ULBRA São Lucas em Sapucaia do Sul
