@@ -8,8 +8,8 @@ Sou professor de informática com 25 anos de experiência. Apaixonado por tecnol
 
 ## 📫 Como entrar em contato comigo:
 
-- Email: jefersonleonblue@gmail.com
-- LinkedIn: [Jeferson Leon](https://www.linkedin.com/in/jeferson-faleiro-leon-02344222/)
+  <a href = "mailto:jefersonleonblue@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/jeferson-faleiro-leon-02344222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 ## ⚡ Curto:
