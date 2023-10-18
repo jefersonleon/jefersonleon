@@ -32,4 +32,4 @@ Sou professor de informática com 25 anos de experiência. Apaixonado por tecnol
 ## 💪 Desenvolvimento:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonleon&layout=donut)](https://github.com/jefersonleon/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jefersonleon&repo=github-readme-stats)](https://github.com/jefersonleon/github-readme-stats)
+
