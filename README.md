@@ -19,12 +19,15 @@ Sou professor de informática com 25 anos de experiência. Apaixonado por tecnol
 [![Estatísticas do GitHub de Jeferson Leon](https://github-readme-stats.vercel.app/api?username=jefersonleon)](https://github.com/jefersonleon)
 
 ## 🚀 Skills:
+![Alt ou título da imagem](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Alt ou título da imagem](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Alt ou título da imagem](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Alt ou título da imagem](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Alt ou título da imagem](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+
+
+
 
 ## 💪 Desenvolvimento:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonleon&layout=donut)](https://github.com/jefersonleon/github-readme-stats)
