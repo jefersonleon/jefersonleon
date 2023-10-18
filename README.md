@@ -16,6 +16,8 @@ Sou professor de informática com 25 anos de experiência. Apaixonado por tecnol
 
 - 🌍 Estar com a família e adoro novos desafios.
 
+## 📝 Commits:
+
 [![Estatísticas do GitHub de Jeferson Leon](https://github-readme-stats.vercel.app/api?username=jefersonleon)](https://github.com/jefersonleon)
 
 ## 🚀 Skills:
@@ -24,9 +26,7 @@ Sou professor de informática com 25 anos de experiência. Apaixonado por tecnol
 ![Alt ou título da imagem](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Alt ou título da imagem](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Alt ou título da imagem](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-
-
+![Alt ou título da imagem](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 
 ## 💪 Desenvolvimento:
