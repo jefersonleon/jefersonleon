@@ -18,5 +18,7 @@ Sou professor de informática com 25 anos de experiência. Apaixonado por tecnol
 
 [![Estatísticas do GitHub de Jeferson Leon](https://github-readme-stats.vercel.app/api?username=jefersonleon)](https://github.com/jefersonleon)
 
-![Snake animation](https://github.com/jefersonleon/jefersonleon/blob/output/github-contribution-grid-snake.svg)
-
+<div>
+## 💪 Desenvolvimento:
+  ![Snake animation](https://github.com/jefersonleon/jefersonleon/blob/output/github-contribution-grid-snake.svg)
+</div>
