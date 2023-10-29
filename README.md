@@ -29,7 +29,4 @@ Sou professor de informática com 25 anos de experiência. Apaixonado por tecnol
 ![Alt ou título da imagem](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 
-## 💪 Desenvolvimento:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonleon&layout=donut)](https://github.com/jefersonleon/github-readme-stats)
-
 
