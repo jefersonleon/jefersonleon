@@ -1,32 +1,45 @@
-# Olá, sou Jeferson Faleiro Leon! - Professor e Desenvolvedor Backend 👋
+# 👨‍🏫 Jeferson Faleiro Leon | Dev, Professor & Especialista em Tecnologia  
 
+🚀 Professor e especialista em tecnologia com mais de 20 anos de experiência em desenvolvimento de sistemas e educação profissional. Apaixonado por conectar teoria e prática, formando profissionais capacitados para o mercado.  
 
-Sou professor de informática com 25 anos de experiência. Apaixonado por tecnologia e sempre buscando aprender mais!
+🎯 **Minha missão:** Tornar a tecnologia acessível, transformar conhecimento em resultados e preparar devs para desafios reais!  
 
-## 💻 Atualmente sou professor no Colégio ULBRA São Lucas em Sapucaia do Sul
+---
 
+## 🛠️ Tech Stack  
 
-## 📫 Como entrar em contato comigo:
+🔹 **Linguagens:** PHP | Java | JavaScript  
+🔹 **Banco de Dados:** PostgreSQL | MySQL  
+🔹 **Frameworks:** Node.js | Express | Spring Boot  
+🔹 **Ferramentas:** Git | Docker 
+🔹 **Cloud & DevOps:** Firebase | Heroku  
 
-  <a href = "mailto:jefersonleonblue@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/jeferson-faleiro-leon-02344222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
 
+## 🎓 Formação  
 
-## ⚡ Curto:
+📌 **Tecnólogo em Desenvolvimento de Sistemas**  
+📌 **Pós-graduações:** Formação Pedagógica | Tecnologias Digitais Aplicadas à Educação | Gestão Escolar  
 
-- 🌍 Estar com a família e adoro novos desafios.
+---
 
-## 📝 Commits:
+## 📚 O que faço atualmente?  
 
-[![Estatísticas do GitHub de Jeferson Leon](https://github-readme-stats.vercel.app/api?username=jefersonleon)](https://github.com/jefersonleon)
+✅ Professor no **Colégio ULBRA São Lucas**  
+✅ Mentor de futuros desenvolvedores  
+✅ Explorando **Inteligência Artificial na Educação**  
 
-## 🚀 Skills:
-![Alt ou título da imagem](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Alt ou título da imagem](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Alt ou título da imagem](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Alt ou título da imagem](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Alt ou título da imagem](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Alt ou título da imagem](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+---
 
+## 📬 Conecte-se comigo!  
 
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefersonleonblue@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-faleiro-leon-02344222/)  
 
+---
+
+## 📊 GitHub Stats  
+
+![Jeferson Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonleon&show_icons=true&theme=radical)  
+
+🚀 **Código, ensino e inovação andam juntos! Vamos construir o futuro da tecnologia?**  
