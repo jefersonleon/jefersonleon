@@ -1,0 +1,42 @@
+# Nome do fluxo de trabalho (workflow)
+name: Generate Snake Animation
+
+# Define quando a Action deve ser executada
+on:
+  # Roda automaticamente a cada 6 horas
+  schedule:
+    - cron: "0 */6 * * *"
+  # Permite que você rode manualmente pela aba Actions
+  workflow_dispatch:
+
+# Define as tarefas que serão executadas
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Passo 1: Clona o repositório para que a Action possa acessá-lo
+      - uses: actions/checkout@v3
+
+      # Passo 2: Roda a Action "snk" que gera a animação da cobrinha
+      # O código-fonte dessa Action está em: https://github.com/Platane/snk
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          # O ID do seu usuário no GitHub. Este comando pega automaticamente.
+          github_user_name: ${{ github.repository_owner }}
+          
+          # Lista de arquivos de saída que serão gerados
+          # Você pode adicionar mais temas aqui, se quiser
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.svg?palette=ocean
+      
+      # Passo 3: Envia os arquivos gerados de volta para o repositório, em uma branch chamada "output"
+      - name: Push to repository
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
